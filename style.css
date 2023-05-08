@@ -1,5 +1,6 @@
 body{
-    margin: 10%;
+    margin: 5%;
     display: block;
-    display: inline-flex;
+    display: inline-flexbox;
+    width: 400px;
 }
